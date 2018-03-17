@@ -8,9 +8,9 @@
 
 ## Installation
 
-1. Download the [scripts](bin)
-2. Place them on your `$PATH` (`~/bin` is a good choice if it is on your path)
-3. Set them to be executable (`chmod +x <file>…`)
+``` sh
+ln --symbolic $PWD/bin/* ~/.local/bin/
+```
 
 ## Configuration
 
