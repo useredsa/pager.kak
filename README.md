@@ -6,6 +6,12 @@
 
 > [Kakoune][] extension to use the editor as a pager.
 
+## Features
+
+- [Pager](bin/kak-pager)
+- [Manual](bin/kak-man-pager)
+- [Grep](bin/kak-grep-pager)
+
 ## Installation
 
 ``` sh
