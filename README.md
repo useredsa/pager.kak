@@ -4,7 +4,7 @@
 
 ###### [Configuration](#configuration) | [Contributing](CONTRIBUTING)
 
-> [Kakoune][] extension to use the editor as a pager.
+> [Kakoune] extension to use the editor as a pager.
 
 ## Features
 
