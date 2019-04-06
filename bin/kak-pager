@@ -1,5 +1,5 @@
 #!/bin/sh
 
-col --no-backspaces --spaces |
+col -b -x |
 
 kak -e "map global normal q :quit<ret>; $@"
