@@ -15,7 +15,7 @@
 ## Installation
 
 ``` sh
-ln --symbolic $PWD/bin/* ~/.local/bin/
+ln -s $PWD/bin/* ~/.local/bin/
 ```
 
 ## Configuration
